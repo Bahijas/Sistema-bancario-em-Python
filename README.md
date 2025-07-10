@@ -15,3 +15,8 @@ Para desenvolver habilidades lógicas de programação, e entender alguns concei
 
 ## O que eu absorvi 🧑💻
 Aplicar mais adequadamente Estrututas Condicionais, Constantes e Variaveis;
+
+## Atualização 🛠
+Dia 10/07/2025 o codigo foi impulsionado com algumas funçoes novas tanto no codigo que estava funcionando atraves somente de (Variaveis, Constantes e Estrututa de loop), como funções de (Criar usuario, Criar Conta, Listar Contas);
+
+# De uma observada no codigo 😉
