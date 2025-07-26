@@ -17,6 +17,7 @@ Para desenvolver habilidades lógicas de programação, e entender alguns concei
 Aplicar mais adequadamente Estrututas Condicionais, Constantes e Variaveis;
 
 ## Atualização 🛠
-Dia 10/07/2025 o codigo foi impulsionado com algumas funçoes novas tanto no codigo que estava funcionando atraves somente de (Variaveis, Constantes e Estrututa de loop), como funções de (Criar usuario, Criar Conta, Listar Contas);
+|Dia 10/07/2025| O codigo foi impulsionado com algumas funçoes novas tanto no codigo que estava funcionando atraves somente de (Variaveis, Constantes e Estrututa de loop), como funções de (Criar usuario, Criar Conta, Listar Contas);
 
+|Dia 25/07/2025| Adicionado outro codigo bancario com os mesmos conceitos,porem utilizando classes para interagir no sistema e deixando um pouco mais completo e complicado tal codigo;
 # De uma observada no codigo 😉
